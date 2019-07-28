@@ -1,6 +1,10 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import {
+	faGithub,
+	faLinkedin,
+	faTwitter
+} from "@fortawesome/free-brands-svg-icons";
 
 const Landing = props => (
 	<section
@@ -26,6 +30,9 @@ const Landing = props => (
 				</a>
 				<a href={props.landingData.github}>
 					<FontAwesomeIcon icon={faGithub} />
+				</a>
+				<a href={props.landingData.twitter}>
+					<FontAwesomeIcon icon={faTwitter} />
 				</a>
 			</div>
 		</div>

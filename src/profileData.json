@@ -3,55 +3,85 @@
 		"firstName": "Amal",
 		"lastName": "Tapalov",
 		"phoneNumber": "0108 123 456 789",
-		"bio": "User's descriptive bio",
+		"bio": "I am a Front End Developer with a solid sense of design. I have an experience in UI/UX design as well. I really like to create things which people like to use it.",
 		"email": "amaltapalov@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/amaltapalov/",
-		"github": "https://github.com/amaltapalov"
+		"github": "https://github.com/amaltapalov",
+		"twitter": "https://twitter.com/amal_tapalov"
 	},
 	"experience": [
 		{
-			"position": "Web Developer",
-			"organization": "Company one",
-			"aboutWork": "Details about work here",
-			"fromDate": "Date of starting",
-			"toDate": "Ending Date"
+			"position": "Frontend Developer",
+			"organization": "Tabella",
+			"aboutWork": "Responsible for creating websites and landing pages using HTML, CSS, JS, Bootstrap, React",
+			"fromDate": "September 2017",
+			"toDate": "Present"
 		},
 		{
-			"position": "App Developer",
-			"organization": "Company 2",
-			"aboutWork": "Details about work here",
-			"fromDate": "Date of starting",
-			"toDate": "ending date"
+			"position": "Freelancer",
+			"organization": "",
+			"aboutWork": "Design and Development of Websites, learning UI/UX design",
+			"fromDate": "January 2017",
+			"toDate": "August 2017"
+		},
+		{
+			"position": "Web Developer and Designer",
+			"organization": "The Foundation of the First President",
+			"aboutWork": "Design and Developing of Website and defining strategy of development via web environment. Maintenance of website including adding and improving UI components.",
+			"fromDate": "May 2016",
+			"toDate": "December 2016"
+		},
+		{
+			"position": "Web Developer and Designer",
+			"organization": "Z Community",
+			"aboutWork": "Developed and designed two websites: Z Community (primary corporate website) and Z Camp (secondary website for summer education for teenagers), overlooked company management activities, add actual changes. ",
+			"fromDate": "January 2016",
+			"toDate": "June 2016"
 		}
 	],
 	"education": [
 		{
-			"university": "University or School Name",
-			"degree": "Major",
-			"faculty": "Computer Science - Web Development Track",
-			"gpa": "GPA",
-			"fromDate": "Date of start",
-			"toDate": "Date of completion"
+			"university": "Czech technical University (CTU)",
+			"degree": "B.Sc.",
+			"faculty": "Management and Economics in Transport and Telecommunication",
+			"gpa": "2.8",
+			"fromDate": "October 2013",
+			"toDate": "January 2017"
 		}
 	],
 	"skills": [
 		{
-			"name": "skill1"
+			"name": "HTML5"
 		},
 		{
-			"name": "skill2"
+			"name": "CSS3"
+		},
+		{
+			"name": "JavaScript (ES6)"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "SASS"
+		},
+		{
+			"name": "Bootstrap"
+		},
+		{
+			"name": "Git"
+		},
+		{
+			"name": "Adobe Suite"
 		}
 	],
 	"interests": {
-		"paragraphOne": "Descriptive detail about your interests for paragraph one",
-		"paragraphTwo": "Descriptive detail about your interests for paragraph two"
+		"paragraphOne": "Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I like go hiking. During the warmer months here in Prague, I enjoy swimming and playing outdoor sport",
+		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies (as Marvel comic or Dark) and television shows (basically Late night shows), and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
 	},
 	"awards": [
 		{
-			"awardDetail": "Your first award"
-		},
-		{
-			"awardDetail": "Your second award"
+			"awardDetail": "3rd place Awards.kz - National internet award: Website about upbringing, education and science Novacity.kz"
 		}
 	]
 }

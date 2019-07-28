@@ -18,7 +18,7 @@ const Skills = ({ skills }) => (
 						<p className="list-item">
 							<FontAwesomeIcon
 								icon={faCheckCircle}
-								color="green"
+								color="#eb7398"
 							/>
 							<span className="ml-3">{skill.name}</span>
 						</p>
