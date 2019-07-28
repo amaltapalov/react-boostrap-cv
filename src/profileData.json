@@ -1,0 +1,57 @@
+{
+	"landing": {
+		"firstName": "Amal",
+		"lastName": "Tapalov",
+		"phoneNumber": "0108 123 456 789",
+		"bio": "User's descriptive bio",
+		"email": "amaltapalov@gmail.com",
+		"linkedin": "https://www.linkedin.com/in/amaltapalov/",
+		"github": "https://github.com/amaltapalov"
+	},
+	"experience": [
+		{
+			"position": "Web Developer",
+			"organization": "Company one",
+			"aboutWork": "Details about work here",
+			"fromDate": "Date of starting",
+			"toDate": "Ending Date"
+		},
+		{
+			"position": "App Developer",
+			"organization": "Company 2",
+			"aboutWork": "Details about work here",
+			"fromDate": "Date of starting",
+			"toDate": "ending date"
+		}
+	],
+	"education": [
+		{
+			"university": "University or School Name",
+			"degree": "Major",
+			"faculty": "Computer Science - Web Development Track",
+			"gpa": "GPA",
+			"fromDate": "Date of start",
+			"toDate": "Date of completion"
+		}
+	],
+	"skills": [
+		{
+			"name": "skill1"
+		},
+		{
+			"name": "skill2"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Descriptive detail about your interests for paragraph one",
+		"paragraphTwo": "Descriptive detail about your interests for paragraph two"
+	},
+	"awards": [
+		{
+			"awardDetail": "Your first award"
+		},
+		{
+			"awardDetail": "Your second award"
+		}
+	]
+}
