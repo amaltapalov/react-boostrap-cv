@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-boostrap-portfolio/static/css/main.34de6062.chunk.css",
-    "main.js": "/react-boostrap-portfolio/static/js/main.2c25c4d9.chunk.js",
-    "main.js.map": "/react-boostrap-portfolio/static/js/main.2c25c4d9.chunk.js.map",
+    "main.css": "/react-boostrap-portfolio/static/css/main.498d002a.chunk.css",
+    "main.js": "/react-boostrap-portfolio/static/js/main.7435028d.chunk.js",
+    "main.js.map": "/react-boostrap-portfolio/static/js/main.7435028d.chunk.js.map",
     "runtime~main.js": "/react-boostrap-portfolio/static/js/runtime~main.73466602.js",
     "runtime~main.js.map": "/react-boostrap-portfolio/static/js/runtime~main.73466602.js.map",
     "static/js/2.bd7b0a5d.chunk.js": "/react-boostrap-portfolio/static/js/2.bd7b0a5d.chunk.js",
     "static/js/2.bd7b0a5d.chunk.js.map": "/react-boostrap-portfolio/static/js/2.bd7b0a5d.chunk.js.map",
     "index.html": "/react-boostrap-portfolio/index.html",
-    "precache-manifest.ab06165dec56b4d18a2d4514fcbc2466.js": "/react-boostrap-portfolio/precache-manifest.ab06165dec56b4d18a2d4514fcbc2466.js",
+    "precache-manifest.0de190f7fc5d958c0daae01ee0310598.js": "/react-boostrap-portfolio/precache-manifest.0de190f7fc5d958c0daae01ee0310598.js",
     "service-worker.js": "/react-boostrap-portfolio/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/react-boostrap-portfolio/static/css/main.34de6062.chunk.css.map",
+    "static/css/main.498d002a.chunk.css.map": "/react-boostrap-portfolio/static/css/main.498d002a.chunk.css.map",
     "static/media/profile.jpg": "/react-boostrap-portfolio/static/media/profile.f88ab97f.jpg"
   }
 }
