@@ -178,6 +178,13 @@ a:hover {
 	color: #e6507e;
 }
 
+.navbar-brand {
+	font-family: "Saira Extra Condensed", sans-serif;
+}
+.navbar-dark .navbar-toggler {
+	border-color: transparent;
+}
+
 @media screen and (max-width: 768px) {
 	h1 {
 		font-size: 3.5rem;
